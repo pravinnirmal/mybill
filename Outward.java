@@ -53,7 +53,7 @@ public class Outward {
 		System.out.println("The total stock  is " + total);
 
 		scano.close();
-		System.exit(0);
+		System.exit(0);   // comment this line
 
 	}
 
